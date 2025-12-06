@@ -27,3 +27,8 @@ The original dataset comes from an IBM Data Science course and is similar to the
   - `pandas`, `numpy`
   - `matplotlib`, `seaborn`
   - `scikit-learn` (`LinearRegression`, `Ridge`, `PolynomialFeatures`, `train_test_split`)
+**Key Learnings**
+
+   - How feature selection and preprocessing influence model performance.
+   - The impact of regularization (Ridge) compared to plain linear regression.
+   - The trade-offs of adding polynomial features (risk of overfitting vs better fit).
